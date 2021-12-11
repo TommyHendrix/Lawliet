@@ -1,0 +1,14 @@
+@font-face{
+    font-family: 'Poppins';
+    src: url(./font/Poppins-Regular.otf);
+}
+
+@font-face{
+    font-family: 'Playfair Display';
+    src: url(./font/PlayfairDisplay-Regular.otf);
+}
+
+@font-face{
+    font-family: 'Plus Jakarta Sans';
+    src: url(./font/PlusJakartaDisplay-Regular.otf);
+}
