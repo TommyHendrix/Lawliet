@@ -525,8 +525,6 @@ footer {
     background: #0F6E8C;
     border-radius: 50%;
     padding: 5px;
-    height: 28px;
-    width: 28px;
     margin-left: 10px;
     transition: .3s;
     text-decoration: none;
@@ -536,8 +534,6 @@ footer {
     background: #0F6E8C;
     border-radius: 50%;
     padding: 5px;
-    height: 28px;
-    width: 28px;
     margin-left: 10px;
     transition: .3s;
     text-decoration: none;
@@ -547,8 +543,6 @@ footer {
     background: #0F6E8C;
     border-radius: 50%;
     padding: 6px;
-    height: 28px;
-    width: 28px;
     margin-left: 10px;
     transition: .3s;
     text-decoration: none;
@@ -563,7 +557,7 @@ footer {
     border-radius: 50%;
     padding: 5px;
     margin-left: 10px;
-    transition: .3s;
+    transition: .3s!important;
     text-decoration: none;
 }
 /* 
@@ -594,6 +588,13 @@ footer {
 .img_icons1:hover {
     background: radial-gradient(circle farthest-corner at 32% 106%, rgb(255, 225, 125) 0%, rgb(255, 205, 105) 10%, rgba(250, 146, 55, 0.815) 28%, rgb(235, 65, 65) 42%, transparent 82%), linear-gradient(135deg, rgb(35, 75, 215) 12%, rgb(195, 60, 190) 58%);
     border-radius: 50%;
+}
+.icon-imgs {
+     width: 30px;
+     height: 30px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
 }
 
 
